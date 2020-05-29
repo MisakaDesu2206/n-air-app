@@ -1,3 +1,9 @@
+cái này nó tương tự như 
+
+
+
+
+
 # N Air
 
 [![Build status](https://ci.appveyor.com/api/projects/status/0vvxc20s1re3094d?svg=true)](https://ci.appveyor.com/project/n-air-app/n-air-app)
