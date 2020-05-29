@@ -1,4 +1,4 @@
-cái này nó tương tự như 
+cái này nó tương tự như ...Hy Per? hình như khác
 
 
 
